@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-kriti2502
-- 😎 I’m Frontend Developer
-- 🌱 I’m currently learning React, Node
+- 😎 I’m Web Developer and Machine Leraning Enthusiast
+- 🌱 I’m currently learning React.js , Node.js 
 - 📫 How to reach me aakritiannu@gmail.com 
 
 <!---
